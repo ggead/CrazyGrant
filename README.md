@@ -1,4 +1,4 @@
-# README
+# Crazy.tech
 The protocol implements a token release mechanism, inspired by [CZ's post](https://x.com/cz_binance/status/1895837657613078574?s=46&t=aINiXI9muQv17hdOB_Z5YQ), which is aimed at avoiding price dumping and a sustainable performance of the price action. 
 
 **[Core Definitions]**<br>
