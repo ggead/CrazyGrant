@@ -1,7 +1,7 @@
 # README
 The protocol implements a token release mechanism, inspired by [CZ's post](https://x.com/cz_binance/status/1895837657613078574?s=46&t=aINiXI9muQv17hdOB_Z5YQ), which is aimed at avoiding price dumping and a sustainable performance of the price action. 
 
-**[Core Definitions]**
+**[Core Definitions]**<br>
 Defines the total token supply, initial minting circulation ratio, and conditional token unlocking.
 
 10% of the total supply can be minted at TGE.
@@ -15,7 +15,7 @@ Note: Unlock will revert if conditions are unmet, but price verification can be 
 
 Note: Unlock will revert if conditions are unmet, but price verification can be retried anytime until passed, when token unlocking becomes optional.
 
-**Developers**
+**Developers**<br>
 Try running some of the following tasks:
 ```shell
 npx hardhat vars set WALLET_PRIVATE_KEY 
