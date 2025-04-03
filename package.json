@@ -10,6 +10,7 @@
     "@nomicfoundation/hardhat-ignition": "^0.15.10",
     "@openzeppelin/contracts": "^5.0.2",
     "axios": "^1.7.7",
+    "date-fns": "^4.1.0",
     "dayjs": "^1.11.13",
     "dotenv": "^16.4.7",
     "ethers": "^6.13.4"
